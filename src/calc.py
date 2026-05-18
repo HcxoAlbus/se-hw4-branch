@@ -18,3 +18,7 @@ def divide(a, b):
     if b == 0:
         raise ValueError("The divisor cannot be zero.")
     return a / b
+
+def power(a, b):
+    """Return a raised to the power of b."""
+    return a ** b
