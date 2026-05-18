@@ -16,3 +16,4 @@ git:
   parallel_branches:
     - B2
     - B3
+c4_change: true
