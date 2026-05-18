@@ -16,4 +16,8 @@ git:
   parallel_branches:
     - B2
     - B3
+<<<<<<< HEAD
 b3_change: true
+=======
+c4_change: true
+>>>>>>> C4
