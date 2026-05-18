@@ -37,4 +37,8 @@ This project is mainly used to practice the following Git operations:
 6. Resolve conflicts.
     
 7. Push local branches to GitHub.
+
+## B3 Usage Update
+
+Branch B3 adds more detailed instructions for running and testing the project.
     
