@@ -42,3 +42,8 @@ For example:
 - C4 may introduce new changes based on B2.
 
 During merging, Git can detect differences and help developers integrate code changes.
+
+
+## B2 Design Update
+
+In branch B2, the calculation module is extended with additional mathematical functions.
