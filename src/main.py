@@ -23,8 +23,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-<<<<<<< HEAD
+
 print('B3 branch modification')
-=======
+
 print('C4 branch modification')
->>>>>>> C4
+

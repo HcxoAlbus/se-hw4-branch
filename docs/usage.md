@@ -42,8 +42,5 @@ This project is mainly used to practice the following Git operations:
 
 Branch B3 adds more detailed instructions for running and testing the project.
     
-<<<<<<< HEAD
 B3 branch modification for usage.
-=======
 C4 branch modification for usage.
->>>>>>> C4
