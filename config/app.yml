@@ -1,6 +1,6 @@
 app:
   name: software-engineering-git-experiment
-  version: 1.0.0
+  version: 1.1.0
   description: A simple project for Git branch management practice
 
 author:
